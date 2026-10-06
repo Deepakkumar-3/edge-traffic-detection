@@ -3,3 +3,5 @@ runs/
 *.pt
 *.onnx
 __pycache__/
+traffic.mp4
+val1.jpg
